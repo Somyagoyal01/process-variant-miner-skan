@@ -1,0 +1,21 @@
+raw_label,canonical
+Raise purchase request,Create purchase requisition
+Purchase requisition logged in Coupa,Create purchase requisition
+Line manager sign-off,Manager approval
+Approval granted by department head,Manager approval
+Issue PO number,Create purchase order
+Purchase order generated,Create purchase order
+Share PO with supplier over portal,Send PO to vendor
+Supplier notified of order,Send PO to vendor
+Material received at warehouse,Receive goods
+Inward entry of goods,Receive goods
+Supplier bill arrived,Receive invoice
+Invoice uploaded to AP inbox,Receive invoice
+"Reconcile PO, receipt and bill",Three-way match
+Matching invoice against GRN,Three-way match
+Variance between invoice and PO corrected,Resolve mismatch
+Raise dispute for price difference,Resolve mismatch
+Invoice booked in ledger,Post invoice
+Record vendor bill in accounts,Post invoice
+Bank transfer to supplier,Pay vendor
+Vendor payment completed,Pay vendor
